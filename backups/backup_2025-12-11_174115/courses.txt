@@ -1,0 +1,6 @@
+1||CS101||Introduction to Programming||3||
+2||CS102||Data Structures||4||CS101
+3||MA101||Calculus I||4||
+4||CS201||Database Systems||3||CS102
+5||CS301||Software Engineering||4||CS201
+101||IP312||intro to ip||4||
